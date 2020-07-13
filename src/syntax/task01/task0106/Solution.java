@@ -1,5 +1,7 @@
 package syntax.task01.task0106;
 
+//Уровень 1 лекция 4
+
 /*
 JavaRush. Learn once - use anywhere
 Напиши программу, которая выводит на экран надпись: "JavaRush. Learn once - use anywhere" 10 раз.
