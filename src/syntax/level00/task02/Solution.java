@@ -1,4 +1,4 @@
-package syntax.level00.task0002;
+package syntax.level00.task02;
 
 /*Комплимент учителю*/
 /*

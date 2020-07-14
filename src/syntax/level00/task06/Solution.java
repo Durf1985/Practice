@@ -1,4 +1,4 @@
-package syntax.level00.task0006;
+package syntax.level00.task06;
 
 /*2+3=5*/
 /*Закомментируй ненужные строки кода, чтобы на экран вывелась надпись:

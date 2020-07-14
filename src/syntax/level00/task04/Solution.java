@@ -1,4 +1,4 @@
-package syntax.level00.task0004;
+package syntax.level00.task04;
 
 /* Объявляем переменные*/
 /*Напиши программу, которая в методе main объявляет такие переменные:

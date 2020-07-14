@@ -1,4 +1,4 @@
-package syntax.level00.task0001;
+package syntax.level00.task01;
 
 /*Круто быть програмистом*/
 

@@ -1,4 +1,4 @@
-package syntax.level00.task0005;
+package syntax.level00.task05;
 
 /*Баги и фичи*/
 /*Напиши программу, которая выводит на экран надпись:

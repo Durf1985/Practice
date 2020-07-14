@@ -1,4 +1,4 @@
-package syntax.level00.task0003;
+package syntax.level00.task03;
 
 /*Мой юный друг*/
 /*Сейчас 3126 год. Мой друг родился 8 лет назад.
