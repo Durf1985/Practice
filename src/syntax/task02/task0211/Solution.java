@@ -27,4 +27,4 @@ public class Solution {
         System.out.println(y);
     }
 }
-// под бешивает от таких задач
+// подбешивает от таких задач
